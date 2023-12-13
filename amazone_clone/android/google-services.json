@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1075264789537",
+    "firebase_url": "https://eclone-5f883-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "eclone-5f883",
+    "storage_bucket": "eclone-5f883.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075264789537:android:4e6f898c6d2c88d3cb5760",
+        "android_client_info": {
+          "package_name": "com.example.amazone_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075264789537-3e6nmfm5laq8ufe2hmrvb9i7osg6gmp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ505pFQ2Hi_HhYJ5BsiVVxOYsmEsabXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075264789537-3e6nmfm5laq8ufe2hmrvb9i7osg6gmp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
