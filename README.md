@@ -1,5 +1,5 @@
 <h1>Amazon Clone App with Flutter</h1>
-<h2>Overview</h2>h2>
+<h2>Overview</h2>
 <p>This is a <b>cross-platform</b> mobile application built with Flutter that serves as a clone <br>
 for the Amazon shopping platform. The app utilizes Firebase as a backend to store various collections of products. <br>
 It provides users with a seamless shopping experience, allowing them to browse, search, and purchase products just like on the Amazon platform.</p>
